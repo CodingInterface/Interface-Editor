@@ -1,0 +1,20 @@
+{
+  "name": "interface-editor",
+  "version": "2.0.0",
+  "description": "Version 2 of the original Interface Editor",
+  "main": "Main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "discord-rpc": "^3.0.0",
+    "jquery": "^3.3.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  },
+  "devDependencies": {
+    "electron": "^2.0.8"
+  },
+  "author": "Zero Two#0618",
+  "license": "ISC"
+}
